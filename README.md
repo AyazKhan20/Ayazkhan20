@@ -94,6 +94,13 @@ Power Automate • Azure Functions • Dataverse
 
 ---
 
+# 🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=AyazKhan20&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+---
+
+
 # 🧠 Currently Learning
 
 ✔ Advanced ASP.NET Core  
