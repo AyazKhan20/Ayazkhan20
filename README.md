@@ -44,13 +44,14 @@
 <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
 
 ## ⚙ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,dotnet" />
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet,python,cs,js,java" />
 
 ## 🛢 Database
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlserver" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+
 
 ## ☁ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=azure,git,github" />
 
 ---
 
