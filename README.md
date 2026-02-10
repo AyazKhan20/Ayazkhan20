@@ -11,7 +11,7 @@
 
 ---
 
-# 💫 About Me
+# 🚀 Developer Snapshot
 
 🎓 MCA Student (2024–2026)  
 💻 Software Developer  
