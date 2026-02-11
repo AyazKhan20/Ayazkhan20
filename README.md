@@ -95,6 +95,14 @@ Power Automate • Azure Functions • Dataverse
 
 ---
 
+ # 📜 Certifications & Workshops
+
+✔ AI/ML Workshop – Atyantik  
+✔ Cloud & Azure Training  
+✔ Full Stack Development Bootcamp  
+✔ Power Platform Learning Track
+
+---
 
 # 🧠 Currently Learning
 
