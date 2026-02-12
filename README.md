@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Ayaz+Khan+Pathan;ASP.NET+%7C+Power+Apps+%7C+Automate+%7C+Azure;Building+Modern+Web+Applications;Always+Learning+New+Tech" />
 </p>
 
-<h3 align="center">🚀 ASP.NET | Power Platform | Azure Cloud | Microsoft Stack</h3>
+<h3 align="center">🚀 ASP.NET | Power Platform | Azure Cloud | Dynamics 365 </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AyazKhan20&label=Profile%20Views&color=blueviolet&style=flat"/>
