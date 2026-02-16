@@ -110,7 +110,7 @@ Power Automate • Azure Functions • Dataverse
 ✔ Microservices Architecture  
 ✔ Azure Cloud Deployment    
 ✔ Automation Workflow   
-✔ System Design 
+
 
 ---
 
