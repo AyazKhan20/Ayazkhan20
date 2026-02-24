@@ -17,7 +17,7 @@
 💻 Software Developer  
 🏢 Ex Frontend Developer Intern @ Paxoris Infotech  
 ⚙ Specializing in **ASP.NET MVC, SQL Server, Azure , Power Platforms**  
-🚀 Love to build real-world business applications  
+🚀 Love to build  
  
 
 ---
