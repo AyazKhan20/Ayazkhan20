@@ -72,7 +72,7 @@ React + Node + MongoDB
 ASP.NET + SQL Server  
 ✔ Member management  
 ✔ Fees tracking  
-✔ Reports  
+✔ Reports & Analytics  
 
 ## 🔹 Azure Integrations
 Power Automate • Azure Functions • Dataverse  
