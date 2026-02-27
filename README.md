@@ -59,7 +59,7 @@
 
 ## 🔹 SkillSync – Skill Gap Analyzer
 ASP.NET MVC + AI  
-✔ Skill analysis  
+✔ Skill analysis with AI Analyzer 
 ✔ Candidate scoring Based on Course Completion 
 ✔ Admin dashboard  
 
