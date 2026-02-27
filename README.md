@@ -60,7 +60,7 @@
 ## 🔹 SkillSync – Skill Gap Analyzer
 ASP.NET MVC + AI  
 ✔ Skill analysis  
-✔ Candidate scoring  
+✔ Candidate scoring Based on Course Completion 
 ✔ Admin dashboard  
 
 ## 🔹 Greencart – MERN E-Commerce
