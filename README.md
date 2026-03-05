@@ -80,6 +80,7 @@ Power Automate • Azure Functions • Dataverse
 ✔ SQL → D365 sync  
 ✔ Webhooks  
 ✔ Automation flows  
+✔ Plugins
 
 ---
 
