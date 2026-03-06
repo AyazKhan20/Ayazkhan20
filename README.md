@@ -103,6 +103,7 @@ Power Automate • Azure Functions • Dataverse
 ✔ Cloud & Azure Training  
 ✔ Full Stack Development Bootcamp  
 ✔ Power Platform Learning 
+✔ GTU Hackathon Certification
 
 ---
 
