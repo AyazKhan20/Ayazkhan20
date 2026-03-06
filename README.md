@@ -41,7 +41,7 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,java,cs,js" />
 
 ## 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react" />
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,angular" />
 
 ## ⚙ Backend
 <img src="https://skillicons.dev/icons?i=nodejs,dotnet,python,cs,js,java" />
