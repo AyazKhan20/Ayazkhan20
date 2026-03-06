@@ -102,7 +102,7 @@ Power Automate • Azure Functions • Dataverse
 ✔ AI/ML Workshop – Atyantik  
 ✔ Cloud & Azure Training  
 ✔ Full Stack Development Bootcamp  
-✔ Power Platform Learning 
+✔ Secure Rank 1 in internal College Hackathon 
 ✔ GTU Hackathon Certification
 
 ---
