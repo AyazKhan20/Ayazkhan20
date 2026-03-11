@@ -15,7 +15,7 @@
 
 🎓 MCA Student (2024–2026)  
 💻 Software Developer  
-🏢 Ex Intern 
+🏢 Ex Intern as a Android Developer
 ⚙ Specializing in **ASP.NET MVC, SQL Server, Azure , Power Platforms**  
 🚀 Love to build Real world applications
  
