@@ -14,7 +14,8 @@
 # 🚀 Developer Snapshot
 
 🎓 MCA Student (2024–2026)  
-💻 Software Developer  
+💻 Software Developer 
+💻 CRM Developer
 🏢 Ex Intern as a Android Frontend Developer @Paxoris Infotech
 ⚙ Specializing in **ASP.NET MVC, SQL Server, Azure , Power Platforms**  
 🚀 Love to build Real world applications
