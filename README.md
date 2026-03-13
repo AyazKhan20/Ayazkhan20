@@ -116,6 +116,7 @@ Power Automate • Azure Functions • Dataverse
 ✔ Azure Cloud Deployment    
 ✔ Automation Workflow   
 ✔ Angular Material UI
+✔ Angular Ionic
 ✔ Deployment and Hosting
 
 
