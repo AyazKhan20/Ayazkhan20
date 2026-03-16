@@ -19,7 +19,7 @@
 💻 CRM Developer
 🏢 Ex Intern as a Android Frontend Developer @Paxoris Infotech
 ⚙ Specializing in **ASP.NET MVC, Dynamics , Azure , Power Platforms**  
-🚀 Love to build Real world applications
+🚀 Love to build Real world applications SAAS
  
 
 ---
