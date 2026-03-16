@@ -129,7 +129,7 @@ Power Automate • Azure Functions • Dataverse
 🚀 Build SaaS Product  
 🚀 Contribute to Open Source  
 🚀 Master Cloud Technologies  
-🚀 Automations 
+🚀 Automations & Full stack
 
 ---
 
