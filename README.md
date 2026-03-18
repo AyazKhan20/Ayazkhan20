@@ -16,7 +16,7 @@
 🎓 MCA Student (2024–2026)  
 💻 Software Developer 
 💻 Software Engineer
-💻 CRM Developer
+💻 CRM Developer (Dynamics)
 🏢 Ex Intern as a Android Frontend Developer @Paxoris Infotech
 ⚙ Specializing in **ASP.NET MVC, Dynamics , Azure , Power Platforms**  
 🚀 Love to build Real world applications SAAS
