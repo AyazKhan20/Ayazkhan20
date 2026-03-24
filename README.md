@@ -83,6 +83,7 @@ Power Automate • Azure Functions • Dataverse
 ✔ Webhooks  
 ✔ Automation flows  
 ✔ Plugins JSON 
+✔ Gateways
 
 ---
 
