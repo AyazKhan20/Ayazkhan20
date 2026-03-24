@@ -18,7 +18,7 @@
 💻 Software Engineer
 💻 CRM Developer (Dynamics)
 🏢 Ex Intern as a Android Frontend Developer @Paxoris Infotech
-⚙ Specializing in **ASP.NET MVC, Dynamics , Azure , Power Platforms**  
+⚙ Specializing in **ASP.NET MVC, Dynamics 365, Azure , Power Platforms**  
 🚀 Love to build Real world applications 
  
 
