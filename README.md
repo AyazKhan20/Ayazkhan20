@@ -103,7 +103,7 @@ Power Automate • Azure Functions • Dataverse
  # 📜 Certifications & Workshops
 
 ✔ AI/ML Workshop – Atyantik  
-✔ Cloud & Azure Training  
+✔ Cloud & Azure portal Training  
 ✔ Full Stack Development Bootcamp  
 ✔ Secure Rank 1 in internal College Hackathon 
 ✔ GTU Hackathon Certification
