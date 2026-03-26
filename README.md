@@ -67,7 +67,7 @@ ASP.NET MVC + AI
 ✔ Scans Resume and Analyzed skills
 
 ## 🔹 Greencart – MERN E-Commerce
-React + Node + MongoDB  
+React + NodeJS + MongoDB  
 ✔ Auth + Cart + Payment  
 ✔ REST APIs  
 
@@ -75,7 +75,7 @@ React + Node + MongoDB
 ASP.NET + SQL Server  
 ✔ Member management  
 ✔ Fees tracking  
-✔ Reports & Analytics  
+✔ Reports & Business-Analytics  
 
 ## 🔹 Azure Integrations
 Power Automate • Azure Functions • Dataverse  
