@@ -79,8 +79,8 @@ ASP.NET + SQL Server
 
 ## 🔹 Azure Integrations
 Power Automate • Azure Functions • Dataverse  
-✔ SQL → D365 sync  
-✔ Webhooks  
+✔ SQL → D365 sync 
+✔ Azure-App
 ✔ Automation flows  
 ✔ Plugins JSON 
 ✔ Gateways
