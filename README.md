@@ -60,8 +60,8 @@
 # 🚀 Featured Projects
 
 ## 🔹 SkillSync – Skill Gap Analyzer
-ASP.NET MVC + AI  
-✔ Skill analysis  AI  
+ASP.NET MVC + AI Integration 
+✔ Skill analysis   
 ✔ Candidate scoring on Course Completion 
 ✔ Admin dashboard  
 ✔ Scans Resume and Analyzed skills
