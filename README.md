@@ -71,7 +71,9 @@ ASP.NET MVC + AI Integration
 ## 🔹 Greencart – MERN E-Commerce
 React + NodeJS + MongoDB  
 ✔ Auth + Cart + Payment  
-✔ REST APIs  
+✔ REST APIs 
+✔ Components and Servers  
+
 
 ## 🔹 Gym Management System
 ASP.NET + SQL Server  
