@@ -65,6 +65,8 @@ ASP.NET MVC + AI Integration
 ✔ Candidate scoring on Course Completion 
 ✔ Admin dashboard  
 ✔ Scans Resume and Analyzed skills
+✔ Suggest Path   
+
 
 ## 🔹 Greencart – MERN E-Commerce
 React + NodeJS + MongoDB  
