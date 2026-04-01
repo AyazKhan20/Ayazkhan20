@@ -82,7 +82,7 @@ Power Automate • Azure Functions • Dataverse
 ✔ SQL → D365 sync 
 ✔ Azure-App
 ✔ Automation flows  
-✔ Plugins JSON 
+✔ Mapping tables 
 ✔ Gateways
 
 ---
