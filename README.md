@@ -64,6 +64,7 @@ ASP.NET MVC + AI Integration
 ✔ Skill analysis   
 ✔ Candidate scoring on Course Completion 
 ✔ Admin dashboard  
+✔ Easy to Manage
 ✔ Scans Resume and Analyzed skills
 ✔ Suggest Path   
 
