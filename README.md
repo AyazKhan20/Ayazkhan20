@@ -86,6 +86,7 @@ ASP.NET + SQL Server
 Power Automate • Azure Functions • Dataverse  
 ✔ SQL → D365 sync 
 ✔ Azure-App
+✔ Migration SQL -> D365
 ✔ Automation flows  
 ✔ Mapping tables 
 ✔ Gateways
