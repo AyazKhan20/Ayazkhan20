@@ -112,6 +112,7 @@ Power Automate • Azure Functions • Dataverse
 ✔ Full Stack Development Bootcamp  
 ✔ Secure Rank 1 in internal College Hackathon 
 ✔ GTU Hackathon Certification
+✔ Microsoft Learn Concepts of C#
 ✔ ODOO Tech-Fest Event
 
 ---
