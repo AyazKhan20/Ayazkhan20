@@ -126,7 +126,7 @@ Power Automate • Azure Functions • Dataverse
 ✔ Automation Workflow   
 ✔ Angular Material UI
 ✔ Angular Ionic & Capacitor
-✔ Deployment and Hosting
+✔ Azure Configuration
 
 
 
